@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Overview
+React based mini-app, which sets the screen to summer or winter using browsers location and current time of the user.
+
 ## Available Scripts
 
 In the project directory, you can run:
